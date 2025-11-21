@@ -4,7 +4,8 @@
 ### <div align="center">Неllo👋</div>  
   
 
-My name is Alina Gromadskaya, I'm a 3 year student at Faculty of Applied Maths and Computer Science at BSU. I really like the field of data engineering and I want to develop in it.  
+My name is Alina Gromadskaya, I'm a 3 year student at Faculty of Applied Maths and Computer Science at BSU.  Beginner Data Engineer with a strong interest in data processing, storage, and performance optimization.
+Dedicated to developing fundamental programming skills into practical solutions for data infrastructure challenges. A self-motivated individual seeking a long-term position to build and manage reliable data systems in a professional environment that fosters continuous learning and technical excellence
   
 
 <br/>  
